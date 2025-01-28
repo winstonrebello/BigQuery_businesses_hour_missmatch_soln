@@ -99,8 +99,8 @@ WHERE u.b_name = g.b_name
 | Grubhub_slug	| Virtual_Restaurant_Business_Hours	| Uber_Eats_slug	| Uber_Eats_Business_Hours	| is_out_of_range                     |
 |---------------|-----------------------------------|-----------------|---------------------------|-------------------------------------|
 | johnspizz	    | 10:00 - 22:00	                    | johnspizz	      | 10:00 - 22:00	            | In Range                            |
-| happyburger	  | 11:00 - 20:00	                    | happyburger	    | 11:00 - 21:00	            | Out of Range with 5 mins difference |
-| fastchow	    | 09:00 - 19:00	                    | fastchow	      | 10:00 - 22:00	            | Out of Range                        |
+| happyburger	  | 11:00 - 20:00	                    | happyburger	    | 11:00 - 20:02	            | Out of Range with 5 mins difference |
+| fastchow	    | 09:00 - 19:00	                    | fastchow	      | 10:00 - 20:00	            | Out of Range                        |
 
 ## How It Works
 
